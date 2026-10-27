@@ -1,0 +1,6 @@
+method,gates_2q,ancillas,survival
+"qubitization e^(-iH_d T), T=1",13440,6,3.0849383516279037e-18
+"qubitization e^(-iH_d T), T=2",23040,6,9.584410601178487e-31
+"segmented chain (20 segments, coherent)",160,2,0.6187833918061408
+one segment (between measurements),8,2,0.9762857097579093
+QSVT coherent purification (+1 AA round),360,3,0.3395955256449391

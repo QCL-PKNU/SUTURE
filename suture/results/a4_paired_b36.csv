@@ -1,0 +1,4 @@
+cmp,median_delta,wins,losses,ties,p,p_holm
+synd_c vs purify,-2.0,8,2,2,0.013671875,0.015625
+synd_g vs purify,-3.0,11,0,1,0.0009765625,0.0029296875
+synd_g vs synd_c,-1.0,8,0,4,0.0078125,0.015625

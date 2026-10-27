@@ -1,0 +1,17 @@
+scale,family,n,purify_cliff,lam_max_grid,repair_cliff
+kv_v3e2,gcp,15,,16.0,
+scp_7s5e,scp,15,,64.0,
+kv_v3e3,gcp,18,16.0,16.0,
+flp_3x3,flp,21,8.0,64.0,
+scp_10s7e,scp,26,32.0,64.0,
+flp_3x4,flp,28,8.0,64.0,
+kv_v4e3,gcp,28,8.0,16.0,
+kpp_p8b4,kpp,32,16.0,64.0,
+kv_v4e4,gcp,32,4.0,16.0,
+flp_3x5,flp,35,8.0,64.0,
+kpp_p12b3,kpp,36,16.0,64.0,
+kv_v4e5,gcp,36,4.0,16.0,
+scp_12s8e,scp,37,16.0,64.0,
+kv_v5e4,gcp,45,4.0,16.0,
+kv_v5e6,gcp,55,4.0,16.0,
+kpp_p16b4,kpp,64,8.0,64.0,32.0

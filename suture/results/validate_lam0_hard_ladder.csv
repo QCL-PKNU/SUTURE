@@ -1,0 +1,5 @@
+name,n,G1_survive,G2_proper,G3_stochastic,cells
+hardL_v8,54,True,True,True,60
+hardL_v10,66,True,True,True,60
+hardL_v12,78,True,True,True,60
+hardL_v14,90,True,True,True,60

@@ -1,0 +1,55 @@
+# Local environments, credentials and editor
+.venv/
+.venv-*/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.DS_Store
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Historical projects and author working notes (kept locally)
+/archieves/
+/suture/reports/
+/suture/dispatch_bench10/
+/paper/manuscript_outline.md
+/paper/introduction.md
+/paper/LaTeX_Template.zip
+/paper/micro-latex-template/
+/paper/Architecture_Pipeline_figures.png
+/paper/Rasengan_*.pdf
+/paper/
+/paper/manuscript/writing_review.md
+/paper/manuscript/main_freeze.tex
+/paper/manuscript/main.tex
+
+# Build products; retain manuscript source illustrations and experimental CSVs
+*.aux
+*.blg
+*.bbl
+*.log
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.out
+/paper/manuscript/main*.pdf
+/paper_figs/*/out/
+/suture/results/*.png
+/suture/results/*.pdf
+/suture/experiments/device/preflight_report.json
+/suture/experiments/device/*_state*.pkl
+/suture/results/*_partial.csv
+/runs/
+/dist/
+# Upstream's separate MICRO reproduction campaign is not used by SUTURE.
+/rasengan/reproduce/
+# Author-only review notes and superseded hard-edge result snapshots
+/RELEASE_NOTES.md
+/release_validation.json
+/paper/manuscript/replacement_sentences.md

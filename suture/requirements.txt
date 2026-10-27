@@ -1,0 +1,19 @@
+# SUTURE direct dependencies; requirements-lock.txt pins the release validation environment.
+numpy>=1.26
+scipy>=1.11
+pandas>=2.0
+matplotlib>=3.8
+dill>=0.3.8
+qiskit==1.2.4
+qiskit-aer==0.15.1
+mqt.ddsim==1.22.0         # upstream rasengan import; newer ddsim force-upgrades qiskit past 1.2.4
+qiskit-ibm-runtime==0.34.0 # also required by upstream eager imports
+pytest>=8.0
+
+# Imported by the vendored Rasengan model and utilities.
+gurobipy>=11.0.3
+networkx>=3.3
+psutil>=6.1
+
+tqdm>=4.67
+nevergrad==1.0.12

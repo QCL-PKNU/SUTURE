@@ -1,0 +1,16 @@
+scale,family,n,peak_disc,inv_R
+kv_v3e2,gcp,15,12,1.0
+scp_7s5e,scp,15,12,0.7197708333333332
+kv_v3e3,gcp,18,10,
+flp_3x3,flp,21,36,1.0
+scp_10s7e,scp,26,21,0.6309444444444444
+flp_3x4,flp,28,34,1.0
+kv_v4e3,gcp,28,60,1.0
+kpp_p8b4,kpp,32,33,1.0
+kv_v4e4,gcp,32,33,1.0
+flp_3x5,flp,35,27,1.0
+kpp_p12b3,kpp,36,24,1.0
+kv_v4e5,gcp,36,49,
+kv_v5e4,gcp,45,37,1.0
+kv_v5e6,gcp,55,60,
+kpp_p16b4,kpp,64,35,1.0

@@ -1,0 +1,3 @@
+item,value,detail
+scp_12s8e_floor,0.0,"max hit_opt_seen over both arms, all lam (37-44q SCP)"
+kpp_p16b4_repair_survival_lam32_64,0.0,repair survival at lam 32/64 (64q; corruption exceeds MAX_CORRUPT=6)

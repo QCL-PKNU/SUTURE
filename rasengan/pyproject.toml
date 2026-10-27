@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "rasengan"
+version = "1.1.0"
+description = ""
+authors = [
+    {name = "jiang7f", email = "jiang7ff@163.com"}
+]
+requires-python = ">=3.10"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["rasengan*"]
+
+# 指定包含非 Python 数据文件
+[tool.setuptools.package-data]
+"rasengan.solvers.cloud_execute" = ["IBM.key"]

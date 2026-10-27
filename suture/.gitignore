@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+packs/oracles/
+results/*_partial.csv

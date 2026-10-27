@@ -1,0 +1,11 @@
+# git archive excludes local/provenance-only material even before index cleanup.
+/archieves export-ignore
+/suture/reports export-ignore
+/suture/dispatch_bench10 export-ignore
+/paper/manuscript/main.tex export-ignore
+/paper/manuscript/main_freeze.tex export-ignore
+/paper/manuscript/writing_review.md export-ignore
+/rasengan/reproduce export-ignore
+/RELEASE_NOTES.md export-ignore
+/release_validation.json export-ignore
+/paper/manuscript/replacement_sentences.md export-ignore

@@ -1,0 +1,1 @@
+{"stage": "A1", "instance": "gcp_p24_s0", "job_id": "da8eum6rbfbs73cgf2l0", "n_circuits": 64, "shots": 256, "build_s": 1.95128129189834, "transpile_s": 480.6772915828042, "wall_s": 139.70801287470385, "qpu_usage_s": 7.0, "created": "2026-08-28T02:15:52.996369Z", "running": "2026-08-28T02:15:54.417719Z", "finished": "2026-08-28T02:17:11.424034Z"}

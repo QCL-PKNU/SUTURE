@@ -1,0 +1,9 @@
+SUTURE
+Copyright 2026 SUTURE contributors.
+
+New SUTURE source code is licensed under the Apache License, Version 2.0.
+The vendored Rasengan source remains under its upstream MIT license:
+Copyright (c) 2025 Qifan Jiang (JanusQ). See rasengan/LICENSE.
+Third-party LaTeX classes and bibliography styles retain their embedded notices.
+The research manuscript and experimental datasets are not relicensed by this
+software license notice.
